@@ -1,0 +1,19 @@
+#environment
+.env
+
+#node libs
+node_modules/
+
+# project artifacts
+build/contracts/*
+types/*
+.vscode
+
+#logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# MacOS junk
+.DS_Store
+
